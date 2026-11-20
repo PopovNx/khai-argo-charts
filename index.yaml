@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  khai-argo-app:
+  - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2026-11-20T02:37:08.205680767Z"
+    description: Helm chart for KhAI DevOps Lab 3 (Argo CD) demo application
+    digest: 452e75f40d629d03136d56aeadc3cb7520748e9d856afa1368a1c7baa39d1885
+    name: khai-argo-app
+    type: application
+    urls:
+    - https://github.com/PopovNx/khai-argo-charts/releases/download/khai-argo-app-0.1.1/khai-argo-app-0.1.1.tgz
+    version: 0.1.1
+generated: "2026-11-20T02:37:08.205705322Z"
